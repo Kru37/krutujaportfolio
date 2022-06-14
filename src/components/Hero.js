@@ -27,7 +27,7 @@ const Hero = () => {
             </div>
 
             <a
-              href="www.linkedin.com/in/krutuja-desai-60aab420b"
+              href="https://www.linkedin.com/in/krutuja-desai-60aab420b"
               className={classes["download_btn"]}
             >
               Linked <FaLinkedin />
